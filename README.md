@@ -1,2 +1,2 @@
 # Train_Quantization
-To Train the Quantization Matrix for JPEG2000 Coding
+Improving Quantization Matrices for Image Coding by Machine Learning
